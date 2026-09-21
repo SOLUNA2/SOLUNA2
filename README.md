@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=%EC%9E%84%EC%84%B8%EC%A4%80.&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+
+[![Hits](https://hits.sh/github.com/SOLUNA2.svg?view=today-total&labelColor=14f76f)](https://hits.sh/github.com/SOLUNA2/)
 <!--
 **SOLUNA2/SOLUNA2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
