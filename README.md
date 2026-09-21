@@ -8,7 +8,7 @@
 
 <!-- ─── 상단 물결 배너 ────────────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=SOLUNA2&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Always%20learning,%20always%20building&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=%EC%9E%84%EC%84%B8%EC%A4%80%EC%9D%98+github+%EC%A0%80%EC%9E%A5%EC%86%8C&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
 <!-- ─── 인사말 ───────────────────────────────────────── -->
@@ -16,7 +16,7 @@
 
 <!-- [수정] 아래 한 문단이 사람들이 가장 먼저 읽는 자기소개입니다 -->
 저는 **임세준**입니다. 현대 AI Insight Campus에서 AI를 공부하고 있고, 데이터와 사람 사이를 잇는 걸 좋아합니다.
-Python이 제 첫 언어였고, 지금은 프론트와 백엔드 사이를 오가며 만들고 싶은 걸 만들어 보는 중이에요. :wink:
+Python이 제 첫 언어이고 열심히 배우고있습니다. :wink:
 
 <!-- 타이핑 애니메이션 (원하면 텍스트만 바꾸세요, %20 은 띄어쓰기) -->
 <p align="center">
